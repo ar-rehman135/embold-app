@@ -1,4 +1,4 @@
-### Quill Bot
+### Empbold App
 
 The application is written in TypeScript with Next Js and TailwindCss.
 
